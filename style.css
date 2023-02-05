@@ -1,0 +1,142 @@
+body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+header {
+    display: inline-flex;
+    width: 100%;
+}
+.logo {
+    width: 20%;
+    text-align: center;
+}
+.menu {
+    width: 100%;
+}
+.menu nav {
+    height: 100%;
+    text-align: center;
+}
+.menu nav ul {
+    display: inline-flex;
+    height: 100%;
+    margin: 0;
+    align-items: center;
+}
+.menu nav ul li {
+    padding: 10px 30px;
+    list-style: none;
+}
+.menu nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 21px;
+}
+.styled-table {
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 80%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr {
+    background-color: #204883;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th{
+    cursor: pointer;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #204883;
+}
+.styled-table tbody .active-row {
+    font-weight: bold;
+    color: #204883;
+}
+.formContainer{
+    width:80%;
+    margin:30px auto;
+}
+.formContainer form {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.formContainer form input {
+    background: #204883;
+    color: #fff;
+    border:none;
+    padding:10px 20px;
+}
+.formContainer form input:focus{
+    outline: none;
+}
+.formContainer form input::placeholder{
+    color:#fff;
+}
+::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+input[type="submit"] {
+    cursor: pointer;
+    background-color: #fff !important;
+    color: #204883 !important;
+    outline: 4px solid #204883 !important;
+    outline-offset: -4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+input[type="submit"]:hover {
+    background: #204883 !important;
+    color: #fff !important;
+}
+.editBut{
+    cursor:pointer;
+}
+.editPopup {
+    position: fixed;
+    width: 80%;
+    height: 50%;
+    border: 3px solid black;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #e0e0e0;
+    border-radius: 35px;
+    text-align: center;
+}
+.greyOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: 0.8;
+}
+.closeIcon img {
+    width: 50px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translate(-5px, 5px);
+    cursor: pointer;
+}

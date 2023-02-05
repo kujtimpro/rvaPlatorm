@@ -1,0 +1,521 @@
+[03-Feb-2023 13:03:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'seadkhiu_rvaPlatform'@'localhost' (using password: YES) in /home2/seadkhiu/db.romaversitasalbania.org/index.php:34
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(34): mysqli->__construct('localhost', 'seadkhiu_rvaPla...', 'kujtim113224')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 34
+[03-Feb-2023 13:07:10 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/seadkhiu/db.romaversitasalbania.org/index.php:44
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(44): mysqli->query('SELECT * FROM B...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 44
+[03-Feb-2023 13:07:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/seadkhiu/db.romaversitasalbania.org/index.php:44
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(44): mysqli->query('SELECT * FROM B...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 44
+[03-Feb-2023 13:07:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/seadkhiu/db.romaversitasalbania.org/index.php:44
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(44): mysqli->query('SELECT * FROM B...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 44
+[03-Feb-2023 13:09:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/seadkhiu/db.romaversitasalbania.org/index.php:44
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(44): mysqli->query('SELECT * FROM B...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 44
+[03-Feb-2023 13:09:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: No database selected in /home2/seadkhiu/db.romaversitasalbania.org/index.php:44
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(44): mysqli->query('SELECT * FROM B...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 44
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:35 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[03-Feb-2023 13:18:54 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 45
+[03-Feb-2023 13:19:25 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 45
+[03-Feb-2023 13:20:20 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 45
+[03-Feb-2023 13:21:05 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 45
+[03-Feb-2023 13:23:44 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:45
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 45
+[03-Feb-2023 13:47:45 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 13:47:45 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 13:47:45 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 13:47:46 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 13:47:51 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 13:47:51 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 14:25:20 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 14:39:05 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[03-Feb-2023 14:39:05 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[04-Feb-2023 00:50:12 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[04-Feb-2023 00:50:25 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[04-Feb-2023 02:58:37 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[04-Feb-2023 02:59:34 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[04-Feb-2023 07:15:32 America/Chicago] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home2/seadkhiu/db.romaversitasalbania.org/index.php:46
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 46
+[04-Feb-2023 07:26:50 America/Chicago] PHP Warning:  Undefined array key "user_uid" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[04-Feb-2023 07:26:50 America/Chicago] PHP Warning:  Undefined array key "user_uid" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[04-Feb-2023 07:26:50 America/Chicago] PHP Warning:  Undefined array key "user_uid" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 49
+[04-Feb-2023 07:32:48 America/Chicago] PHP Warning:  Undefined variable $fetchData in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 07:32:48 America/Chicago] PHP Warning:  Undefined variable $fetchData in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 93
+[04-Feb-2023 07:33:39 America/Chicago] PHP Warning:  Undefined variable $fetchData in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 07:33:39 America/Chicago] PHP Warning:  Undefined variable $fetchData in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 93
+[04-Feb-2023 07:34:51 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 07:35:09 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 07:35:57 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 07:36:16 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 07:36:26 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 07:37:31 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 90
+[04-Feb-2023 07:38:28 America/Chicago] PHP Warning:  Undefined variable $resultCheck in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 43
+[04-Feb-2023 07:38:28 America/Chicago] PHP Warning:  Undefined variable $fetchData in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 59
+[04-Feb-2023 07:38:51 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 07:39:07 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 07:47:17 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 07:47:26 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:10:04 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:10:07 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:26:45 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:28:46 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:29:08 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:30:04 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:30:39 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:33:05 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:35:40 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:36:50 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:37:07 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 73
+[04-Feb-2023 08:37:47 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 74
+[04-Feb-2023 08:38:38 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 08:39:31 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 08:41:07 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 08:56:45 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:00:26 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:00:55 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:01:42 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:05:02 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:05:33 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:05:46 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:06:16 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:07:33 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:08:53 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:09:14 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:26:38 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:27:29 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:29:33 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:29:33 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:31:10 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:31:50 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:32:00 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:34:37 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:34:37 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:34:37 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:34:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'firstname' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:100
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(100): mysqli_query(Object(mysqli), 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:34:58 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:34:58 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:34:58 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:34:58 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'firstname' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:100
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(100): mysqli_query(Object(mysqli), 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:36:01 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:36:01 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:36:01 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:36:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:39:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:39:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:40:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:40:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:40:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:41:25 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:41:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:106
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(106): mysqli_query(Object(mysqli), 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 106
+[04-Feb-2023 09:41:34 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:41:34 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:106
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(106): mysqli_query(Object(mysqli), 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 106
+[04-Feb-2023 09:41:37 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:41:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:106
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(106): mysqli_query(Object(mysqli), 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 106
+[04-Feb-2023 09:41:46 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:41:46 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:106
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(106): mysqli_query(Object(mysqli), 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 106
+[04-Feb-2023 09:41:57 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:41:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:42:10 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:42:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:42:36 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:42:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:42:48 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:42:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:42:54 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:42:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:42:58 America/Chicago] PHP Warning:  Undefined variable $sn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[04-Feb-2023 09:42:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:44:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:48:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:48:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:48:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:48:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 88
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 89
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 90
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 91
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 93
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 94
+[04-Feb-2023 09:48:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 88
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 89
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 90
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 91
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 93
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 94
+[04-Feb-2023 09:48:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 88
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 89
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 90
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 91
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 93
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 94
+[04-Feb-2023 09:48:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:49:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:51:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:51:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:51:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:51:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "firstname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 97
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "lastname" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 98
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "dob" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 99
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "position" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 100
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "salary" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 101
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "phone" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 102
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 103
+[04-Feb-2023 09:51:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/seadkhiu/db.romaversitasalbania.org/index.php:1) in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 107
+[04-Feb-2023 09:53:20 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/add.php on line 12
+[04-Feb-2023 09:53:20 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/add.php:12
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/add.php(12): mysqli_query(NULL, 'insert into ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/add.php on line 12
+[04-Feb-2023 10:10:15 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:15 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/index.php:30
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(30): mysqli_query(NULL, 'SELECT * FROM A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:19 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:19 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/index.php:30
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(30): mysqli_query(NULL, 'SELECT * FROM A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:20 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:20 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/index.php:30
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(30): mysqli_query(NULL, 'SELECT * FROM A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:27 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:27 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/index.php:30
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(30): mysqli_query(NULL, 'SELECT * FROM A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:59 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[04-Feb-2023 10:10:59 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/index.php:30
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(30): mysqli_query(NULL, 'SELECT * FROM A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 30
+[05-Feb-2023 06:59:18 America/Chicago] PHP Warning:  Undefined variable $id in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[05-Feb-2023 06:59:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'userid' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:92
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(92): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[05-Feb-2023 06:59:27 America/Chicago] PHP Warning:  Undefined variable $id in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[05-Feb-2023 06:59:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'userid' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/index.php:92
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(92): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 92
+[05-Feb-2023 07:03:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 111
+[05-Feb-2023 08:37:49 America/Chicago] PHP Parse error:  syntax error, unexpected token ";" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 35
+[05-Feb-2023 08:37:53 America/Chicago] PHP Parse error:  syntax error, unexpected token ";" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 35
+[05-Feb-2023 08:37:55 America/Chicago] PHP Parse error:  syntax error, unexpected token ";" in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 35
+[05-Feb-2023 08:38:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 115
+[05-Feb-2023 08:40:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 116
+[05-Feb-2023 08:40:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 116
+[05-Feb-2023 08:42:26 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[05-Feb-2023 08:42:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 08:42:50 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[05-Feb-2023 08:42:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 08:43:04 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[05-Feb-2023 08:43:04 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 08:44:22 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[05-Feb-2023 08:44:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 08:44:59 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 75
+[05-Feb-2023 08:44:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 08:45:21 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:45:21 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 123
+[05-Feb-2023 08:46:05 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:46:05 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home2/seadkhiu/db.romaversitasalbania.org/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 91
+[05-Feb-2023 08:46:12 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:46:12 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home2/seadkhiu/db.romaversitasalbania.org/index.php:91
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 91
+[05-Feb-2023 08:46:19 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:46:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 124
+[05-Feb-2023 08:46:34 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:46:34 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home2/seadkhiu/db.romaversitasalbania.org/index.php:82
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 82
+[05-Feb-2023 08:46:56 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:46:56 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home2/seadkhiu/db.romaversitasalbania.org/index.php:96
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 96
+[05-Feb-2023 08:47:37 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:47:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 127
+[05-Feb-2023 08:48:10 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:48:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 127
+[05-Feb-2023 08:48:36 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:48:36 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "phpconsole" in /home2/seadkhiu/db.romaversitasalbania.org/index.php:82
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 82
+[05-Feb-2023 08:48:46 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:48:46 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "console" in /home2/seadkhiu/db.romaversitasalbania.org/index.php:82
+Stack trace:
+#0 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 82
+[05-Feb-2023 08:49:37 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 08:49:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 123
+[05-Feb-2023 09:22:04 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 09:22:04 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 123
+[05-Feb-2023 09:38:24 America/Chicago] PHP Warning:  Undefined variable $n in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 80
+[05-Feb-2023 09:38:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 123
+[05-Feb-2023 09:41:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 116
+[05-Feb-2023 09:42:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 116
+[05-Feb-2023 09:43:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 116
+[05-Feb-2023 09:47:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/index.php:96
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/index.php(96): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 96
+[05-Feb-2023 09:48:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 116
+[05-Feb-2023 10:31:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 10:35:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 10:35:23 America/Chicago] PHP Warning:  Undefined variable $conn in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[05-Feb-2023 10:35:23 America/Chicago] PHP Warning:  Undefined variable $tablename in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[05-Feb-2023 10:35:23 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/popup.php:4
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/popup.php(4): mysqli_query(NULL, 'select * from  ...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[05-Feb-2023 10:37:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 10:37:18 America/Chicago] PHP Warning:  Undefined variable $tablename in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 6
+[05-Feb-2023 10:37:18 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where ADM_ID=11' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/popup.php:6
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/popup.php(6): mysqli_query(Object(mysqli), 'select * from  ...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 6
+[05-Feb-2023 10:37:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 10:37:45 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:37:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:37:56 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:37:56 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:40:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 10:41:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 118
+[05-Feb-2023 10:41:41 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:41:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:41:48 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:41:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:42:34 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[05-Feb-2023 10:42:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
