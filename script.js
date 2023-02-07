@@ -66,3 +66,20 @@ function editRow(rowId){
   });
     // console.log(rowId);
 }
+function editbeneficiary(rowId){
+  $.post( "popupbeneficiary.php", { id: rowId })
+  .done(function( data ) {
+    console.log( "Data Loaded: ", data );
+    $("#editPopup").html(data);
+  })
+  .always(function() {
+    $("#editPopup").show();
+  });
+    // console.log(rowId);
+}
+function deletebeneficiary(rowId){
+  $.post( "deletebeneficiary.php", { id: rowId })
+  .done(function( data ) {
+      window.location.reload();
+  })
+}

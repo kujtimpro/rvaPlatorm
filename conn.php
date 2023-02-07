@@ -2,7 +2,7 @@
 
     $servername = "localhost";
     $username = "seadkhiu_rvaPlatform";
-    $password = "kujtim11324";
+    $password = "t3*(g{V,}(*1";
     $dbName = "seadkhiu_rvaPlatform";
     
     $conn = mysqli_connect($servername, $username, $password, $dbName);

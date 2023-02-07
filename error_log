@@ -519,3 +519,279 @@ Stack trace:
 [05-Feb-2023 10:41:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
 [05-Feb-2023 10:42:34 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
 [05-Feb-2023 10:42:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 05:13:42 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 05:13:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 12:05:05 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 12:05:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 12:05:09 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 12:05:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 12:05:14 America/Chicago] PHP Warning:  Undefined variable $row in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 12:05:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 28
+[06-Feb-2023 16:54:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@xhek.cpm where ADM_ID = 34' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 16:55:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@xhek.cpm where ADM_ID = 34' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 16:55:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@hotmail.com where ADM_ID = 12' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 16:56:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Manager33, ADM_SALARY = 5499, ADM_PHONE = 678594665, ADM_EMAIL = DEAKOLA@gmail.c' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 16:57:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'director, ADM_SALARY = 3300, ADM_PHONE = 687453883, ADM_EMAIL = renato.gjergji@g' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 16:58:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'director, ADM_SALARY = 330099, ADM_PHONE = 687453883, ADM_EMAIL = renato.gjergji' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 17:00:30 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com where ADM_ID = 1' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 17:03:51 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'General, ADM_SALARY = 120044, ADM_PHONE = 689476554, ADM_EMAIL = Albi_alushi@gma' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE ADMINIST...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 17:07:36 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SET ADM_FNAME = 'Dea', ADM_LNAME = 'Kola', ADM_DOB = '1999-12-19', ADM_POSITION ' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE  SET ADM...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 17:13:31 America/Chicago] PHP Warning:  Undefined variable $resultCheck in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 38
+[06-Feb-2023 17:13:46 America/Chicago] PHP Warning:  Undefined variable $resultCheck in /home2/seadkhiu/db.romaversitasalbania.org/index.php on line 38
+[06-Feb-2023 17:16:01 America/Chicago] PHP Warning:  Undefined variable $tablename in /home2/seadkhiu/db.romaversitasalbania.org/header.php on line 36
+[06-Feb-2023 17:16:01 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/header.php:37
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/header.php(37): mysqli_query(Object(mysqli), 'SELECT * FROM ;')
+#1 /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php(3): include('/home2/seadkhiu...')
+#2 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/header.php on line 37
+[06-Feb-2023 17:17:46 America/Chicago] PHP Warning:  Undefined variable $tablename in /home2/seadkhiu/db.romaversitasalbania.org/header.php on line 36
+[06-Feb-2023 17:17:46 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/header.php:37
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/header.php(37): mysqli_query(Object(mysqli), 'SELECT * FROM ;')
+#1 /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php(3): include('/home2/seadkhiu...')
+#2 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/header.php on line 37
+[06-Feb-2023 18:28:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'PROJECT_NAME' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php:14
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php(14): mysqli_query(Object(mysqli), 'insert into BEN...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php on line 14
+[06-Feb-2023 18:29:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'PROJECT_NAME' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php:14
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php(14): mysqli_query(Object(mysqli), 'insert into BEN...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php on line 14
+[06-Feb-2023 18:45:56 America/Chicago] PHP Warning:  Undefined variable $connection in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 21
+[06-Feb-2023 18:45:56 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php:21
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php(21): mysqli_query(NULL, 'SELECT PROJECT_...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 21
+[06-Feb-2023 18:46:21 America/Chicago] PHP Warning:  Undefined variable $connection in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 21
+[06-Feb-2023 18:46:21 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php:21
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php(21): mysqli_query(NULL, 'SELECT PROJECT_...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 21
+[06-Feb-2023 18:46:34 America/Chicago] PHP Warning:  Undefined variable $connection in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 21
+[06-Feb-2023 18:46:34 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php:21
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php(21): mysqli_query(NULL, 'SELECT PROJECT_...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 21
+[06-Feb-2023 18:48:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'PROJECT_NAME' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php:14
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php(14): mysqli_query(Object(mysqli), 'insert into BEN...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php on line 14
+[06-Feb-2023 18:57:11 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:57:11 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:57:11 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:57:34 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:57:34 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:57:34 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:57:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`seadkhiu_rvaPlatform`.`BENEFICARY`, CONSTRAINT `BENEFICARY_ibfk_1` FOREIGN KEY (`PROJECT_ID`) REFERENCES `PROJECT` (`PROJECT_ID`)) in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php:14
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php(14): mysqli_query(Object(mysqli), 'insert into BEN...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addbeneficiary.php on line 14
+[06-Feb-2023 18:58:05 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:58:05 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:58:05 America/Chicago] PHP Warning:  Undefined array key "PROJECT_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 24
+[06-Feb-2023 18:59:06 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 18:59:06 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 18:59:22 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 18:59:22 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 18:59:33 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 18:59:33 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 18:59:33 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 18:59:33 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:00:00 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:00:00 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:00:00 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:00:00 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:00:07 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:00:07 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:00:07 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:00:07 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:00:07 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:00:07 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:07:18 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:07:18 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:07:18 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:07:18 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:07:18 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 60
+[06-Feb-2023 19:07:18 America/Chicago] PHP Warning:  Undefined array key "ADM_ID" in /home2/seadkhiu/db.romaversitasalbania.org/beneficaries.php on line 61
+[06-Feb-2023 19:07:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:20 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:20 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/popup.php:6
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/popup.php(6): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 6
+[06-Feb-2023 19:07:21 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:21 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/popup.php:6
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/popup.php(6): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 6
+[06-Feb-2023 19:07:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/popup.php:6
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/popup.php(6): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 6
+[06-Feb-2023 19:07:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:23 America/Chicago] PHP Warning:  Undefined array key "id" in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 4
+[06-Feb-2023 19:07:23 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/popup.php:6
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/popup.php(6): mysqli_query(Object(mysqli), 'select * from A...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/popup.php on line 6
+[06-Feb-2023 19:29:22 America/Chicago] PHP Warning:  Undefined array key "editposition" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 7
+[06-Feb-2023 19:29:22 America/Chicago] PHP Warning:  Undefined array key "editsalary" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 8
+[06-Feb-2023 19:29:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ADM_ID' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE BENEFICA...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 19:29:52 America/Chicago] PHP Warning:  Undefined array key "editposition" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 7
+[06-Feb-2023 19:29:52 America/Chicago] PHP Warning:  Undefined array key "editsalary" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 8
+[06-Feb-2023 19:29:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ADM_ID' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE BENEFICA...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 19:30:38 America/Chicago] PHP Warning:  Undefined array key "editposition" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 7
+[06-Feb-2023 19:30:38 America/Chicago] PHP Warning:  Undefined array key "editsalary" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 8
+[06-Feb-2023 19:30:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ADM_ID' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE BENEFICA...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 19:33:12 America/Chicago] PHP Warning:  Undefined array key "editposition" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 7
+[06-Feb-2023 19:33:12 America/Chicago] PHP Warning:  Undefined array key "editsalary" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 8
+[06-Feb-2023 19:33:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ADM_ID' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE BENEFICA...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 19:33:43 America/Chicago] PHP Warning:  Undefined array key "editposition" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 7
+[06-Feb-2023 19:33:43 America/Chicago] PHP Warning:  Undefined array key "editsalary" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 8
+[06-Feb-2023 19:33:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ADM_ID' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE BENEFICA...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 19:34:26 America/Chicago] PHP Warning:  Undefined array key "editposition" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 7
+[06-Feb-2023 19:34:26 America/Chicago] PHP Warning:  Undefined array key "editsalary" in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 8
+[06-Feb-2023 19:34:26 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ADM_ID' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/edit.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/edit.php(16): mysqli_query(Object(mysqli), 'UPDATE BENEFICA...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/edit.php on line 16
+[06-Feb-2023 19:42:04 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'userid' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/deletebeneficiary.php:4
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/deletebeneficiary.php(4): mysqli_query(Object(mysqli), 'delete from BEN...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/deletebeneficiary.php on line 4
+[06-Feb-2023 19:42:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'userid' in 'where clause' in /home2/seadkhiu/db.romaversitasalbania.org/deletebeneficiary.php:4
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/deletebeneficiary.php(4): mysqli_query(Object(mysqli), 'delete from BEN...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/deletebeneficiary.php on line 4
+[06-Feb-2023 20:28:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'BFC_ID' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:29:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:30:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:32:36 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''222'' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:34:56 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+355692963376'' at line 1 in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:35:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:39:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:41:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:46:38 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:48:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[06-Feb-2023 20:54:03 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'APP_APPLIEDDATE' in 'field list' in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php:16
+Stack trace:
+#0 /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php(16): mysqli_query(Object(mysqli), 'insert into APP...')
+#1 {main}
+  thrown in /home2/seadkhiu/db.romaversitasalbania.org/addapplicant.php on line 16
+[07-Feb-2023 05:55:08 America/Chicago] PHP Warning:  Undefined array key "APP_APPLIEDDATE" in /home2/seadkhiu/db.romaversitasalbania.org/applicants.php on line 62
